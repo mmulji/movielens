@@ -17,3 +17,12 @@ cabal.sandbox.config
 *.eventlog
 .stack-work/
 cabal.project.local
+
+frontend/node_modules/
+frontend/bower_components/
+frontend/output/
+frontend/dist/
+frontend/static/dist
+frontend/.psci_modules
+frontend/npm-debug.log
+**DS_Store
